@@ -19,7 +19,7 @@ class FirstSampleTest(unittest.TestCase):
             "platform": 'Windows 10',
             # "resolution": '1024x768', # change the resolution
             "network": 'true',  # Enable or disable network logs
-            "smartUI.project": "Testing-Smart-UI"
+            "smartUI.project": "Smart-UI-Python-Sample"
             # Build name for smartUI(optional)
             # "smartUI.build" : "buildName"
         }
